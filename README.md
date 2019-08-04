@@ -20,9 +20,10 @@ package main
 
 import (
 	"fmt"
-
-	"github.com/lexkong/log"
-	"github.com/lexkong/log/lager"
+	"gitee.com/lyhuilin/log"
+	"gitee.com/lyhuilin/log/lager"
+	//"github.com/lexkong/log"
+	//"github.com/lexkong/log/lager"
 )
 
 func main() {
