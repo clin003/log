@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	"gitee.com/lyhuilin/apiserver/pkg/log/lager"
+	"gitee.com/lyhuilin/log/lager"
 )
 
 const (

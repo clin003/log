@@ -5,7 +5,7 @@ import (
 	"io"
 	"sync"
 
-	"gitee.com/lyhuilin/apiserver/pkg/log/lager/color"
+	"gitee.com/lyhuilin/log/lager/color"
 )
 
 const logBufferSize = 1024
