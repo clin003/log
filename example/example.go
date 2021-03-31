@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"gitee.com/lyhuilin/apiserver/pkg/log"
-	"gitee.com/lyhuilin/apiserver/pkg/log/lager"
+	"gitee.com/lyhuilin/log"
+	"gitee.com/lyhuilin/log/lager"
 )
 
 func main() {
