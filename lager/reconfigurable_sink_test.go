@@ -1,8 +1,8 @@
 package lager_test
 
 import (
-	"gitee.com/lyhuilin/apiserver/pkg/log/lager"
-	"gitee.com/lyhuilin/apiserver/pkg/log/lager/lagertest"
+	"gitee.com/lyhuilin/log/lager"
+	"gitee.com/lyhuilin/log/lager/lagertest"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

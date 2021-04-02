@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"time"
 
-	"gitee.com/lyhuilin/apiserver/pkg/log/lager"
-	"gitee.com/lyhuilin/apiserver/pkg/log/lager/chug"
+	"gitee.com/lyhuilin/log/lager"
+	"gitee.com/lyhuilin/log/lager/chug"
 	. "github.com/lexkong/lager/ginkgoreporter"
 
 	. "github.com/onsi/ginkgo"

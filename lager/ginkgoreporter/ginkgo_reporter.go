@@ -5,7 +5,7 @@ import (
 	"io"
 	"time"
 
-	"gitee.com/lyhuilin/apiserver/pkg/log/lager"
+	"gitee.com/lyhuilin/log/lager"
 	"github.com/onsi/ginkgo/config"
 	"github.com/onsi/ginkgo/types"
 )

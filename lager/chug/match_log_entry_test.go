@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"gitee.com/lyhuilin/apiserver/pkg/log/lager/chug"
+	"gitee.com/lyhuilin/log/lager/chug"
 	"github.com/onsi/gomega/format"
 	"github.com/onsi/gomega/types"
 )

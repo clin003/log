@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"gitee.com/lyhuilin/apiserver/pkg/log/lager"
+	"gitee.com/lyhuilin/log/lager"
 )
 
 //Entry is a struct

@@ -5,8 +5,8 @@ import (
 	"io"
 	"time"
 
-	"gitee.com/lyhuilin/apiserver/pkg/log/lager"
-	. "gitee.com/lyhuilin/apiserver/pkg/log/lager/chug"
+	"gitee.com/lyhuilin/log/lager"
+	. "gitee.com/lyhuilin/log/lager/chug"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
