@@ -7,7 +7,7 @@ import (
 
 	"gitee.com/lyhuilin/log/lager"
 	"gitee.com/lyhuilin/log/lager/chug"
-	. "github.com/lexkong/lager/ginkgoreporter"
+	. "gitee.com/lyhuilin/log/lager/ginkgoreporter"
 
 	. "github.com/onsi/ginkgo"
 	"github.com/onsi/ginkgo/config"
